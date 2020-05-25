@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "number": 10,
+        "name": "Moriah Green",
+        "position": "Attack",
+        "age": 21
+    },
+    {
+        "id": 2,
+        "number": 12,
+        "name": "Dana Smith",
+        "position": "Defense",
+        "age": 22
+    },
+    {
+        "id": 3,
+        "number": 14,
+        "name": "Adam Kent",
+        "position": "Midfield",
+        "age": 21
+    },
+    {
+        "id": 4,
+        "number": 16,
+        "name": "John Redd",
+        "position": "Goalie",
+        "age": 22
+    },
+    {
+        "id": 5,
+        "number": 18,
+        "name": "Clark Jones",
+        "position": "Midfield",
+        "age": 20
+    }
+]
